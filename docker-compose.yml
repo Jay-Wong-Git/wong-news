@@ -1,0 +1,8 @@
+version: "3"
+services:
+  wong-news:
+    container_name: "wong-news"
+    build: .
+    image: "wong-news:1.0"
+    ports:
+      - 3000:3000
