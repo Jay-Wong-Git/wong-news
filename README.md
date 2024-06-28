@@ -5,7 +5,7 @@ Wong News is a demo Next app about routing essential.
 ## Screenshots 📸:
 
 ![Homepage](/screenshots/homepage.png)
-![NewsPage]](/screenshots/news-page.png)
+![NewsPage](/screenshots/news-page.png)
 ![NewsArchive](/screenshots/news-archive-1.png)
 ![NewsArchive](/screenshots/news-archive-2.png)
 ![NewsDetail](/screenshots/news-detail-1.png)
